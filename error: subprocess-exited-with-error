@@ -1,0 +1,2 @@
+You may have something un-updated, try: brew install pkg-config and brew install mysql (on mac). 
+After installing it, run again: pip install mysqlclient
