@@ -1,4 +1,4 @@
-# Coding Errors 👾
+# Coding Errors 👾👽
 
 Programming is beautiful. You can feel the power of creating great applications from scratch, feeling proud while showing your projects to other developers, or liking the thoughts of other people when they hear you are a programmer (except for the ‘can you fix my…’ no one likes those). 
 
