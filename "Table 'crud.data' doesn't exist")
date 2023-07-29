@@ -1,0 +1,13 @@
+You need to create all the tables inside your database manually. 
+Again use the command:  mysql -u root -p 
+then 
+  USE crud; 
+  SHOW TABLES; 
+
+Finally, create all the data: 
+  CREATE TABLE data (
+      id INT PRIMARY KEY AUTO_INCREMENT,
+      name VARCHAR(255) NOT NULL,
+      email VARCHAR(255) NOT NULL,
+      phone VARCHAR(20) NOT NULL
+  );
