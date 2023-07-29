@@ -1,0 +1,5 @@
+The name used on the code, needs to match an existing database on the server. 
+Use the command:  mysql -u root -p. 
+Then 
+  CREATE DATA_BASE crud;   
+(crud is the name of the database). 
