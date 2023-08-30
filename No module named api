@@ -1,0 +1,14 @@
+Add this code to your file:
+  import sys
+  import os
+  sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__name__), '../..')))
+Note: It should be placed before the importation
+
+After that
+1. Place the test folder outside api folder
+2. Open a docker terminal of the project container
+3. Inside type: 
+                ls
+                cd tests
+                cd utils
+                python -m unittest nameofthefile.py
